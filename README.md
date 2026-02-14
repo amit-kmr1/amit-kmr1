@@ -18,15 +18,18 @@
 
 ## 📌 About Me
 
-I am a **Data Engineer and Automation Specialist** with hands-on experience in:
+I am currently working at **Info Edge (India) Limited(Naukri.com)** as a Data & Automation Engineer, where I design and implement scalable data extraction and automation systems.
 
-- Web Scraping Automation  
-- ETL Pipeline Development  
-- Data Cleaning & Transformation  
-- SQL & Database Management  
-- Python Application Development  
+My expertise includes:
 
-Currently focused on strengthening advanced Data Engineering concepts and scalable system design.
+- End-to-end ETL pipeline development  
+- Web scraping automation at scale  
+- SQL performance optimization  
+- Data cleaning & transformation  
+- Backend workflow automation using Python  
+
+Focused on building high-performance, production-ready data systems.
+
 
 ---
 
@@ -90,4 +93,5 @@ Currently focused on strengthening advanced Data Engineering concepts and scalab
 </p>
 
 ---
+
 
